@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnol-P-S
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Sql
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning
 - 📫 How to reach me : https://www.linkedin.com/in/arnol-p-s/
 
